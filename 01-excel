@@ -1,1 +1,65 @@
+01-analise-exploratoria.md
+02-tabela-dinamica.md
+03-analise-por-loja.md
+04-analise-temporal.md
+05-analise-por-marca.md
+imagens/
 
+
+# Análise Exploratória da Base de Vendas
+
+## Objetivo
+
+Compreender a estrutura da base de dados e identificar quais análises poderiam ser realizadas.
+
+## O que foi encontrado
+
+A base contém informações sobre:
+
+* Data da venda
+* Marca
+* Modelo
+* Vendedor
+* Loja
+* Quantidade
+* Preço unitário
+
+## Aprendizado
+
+Antes de iniciar qualquer análise é necessário conhecer os dados disponíveis e entender quais perguntas de negócio podem ser respondidas.
+
+
+# Utilização de Tabelas Dinâmicas
+
+## Objetivo
+
+Resumir grandes volumes de dados para facilitar análises.
+
+## O que foi feito
+
+*Criação de tabelas dinâmicas
+*Agrupamento de informações por loja, marca e periodo
+*Aplicação de filtros para análise dos dados
+
+## Aprendizado
+
+As tabelas dinâmicas permitem transformar dados brutos em informações úteis para tomada de decisão.
+
+
+# Análise Por Lojas
+
+## Objetivo
+
+Anlisar o faturamento das lojas e identificar quais unidade apresentaram melhor desempenho.
+
+## O que foi encontrado
+
+*Loja Aguas Claras apresentou o maior faturamento: R$ 1.273,047,00
+*Loja de Taguatinga apresentou o menor faturamento: R$ 1.005.812,00
+
+## Insight 
+
+Existe uma diferença significativa de faturamento entre as unidade. Esse resultado pode indicar difernças em fatores como localização, fluxo de clientes, mix de produtos ou desempenho comercial.
+
+## Aprendizado
+A análise por loja permite identificar quais unidades apresentam melhor desempenho e direciona investigações sobre fatores que influenciam os resultados de vendas.
