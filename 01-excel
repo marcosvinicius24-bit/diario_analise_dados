@@ -145,3 +145,11 @@ Mesmo não ocupando a primeira posição em quantidade de vendas, o alto valor a
 * Foi criada a métrica Ticket Médio, calculada pela fórmula:
 * Ticket Médio = Faturamento ÷ Quantidade
 * A análise do ticket médio permitiu validar a hipótese levantada durante a investigação do faturamento por marca.
+
+# Análise Por Vendedor
+## Objetivo
+analisar o faturamento por vendedor e entender seu tickt medio
+## O que foi encontrado
+
+## Insight
+## Aprendizado
