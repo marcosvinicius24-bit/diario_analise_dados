@@ -1,8 +1,11 @@
 01-analise-exploratoria.md
-02-tabela-dinamica.md
-03-analise-por-loja.md
-04-analise-temporal.md
-05-analise-por-marca.md
+02-criacao-faturamento.md
+03-tabela-dinamica.md
+04-analise-por-loja.md
+05-analise-temporal.md
+06-analise-por-marca.md
+07-analise-por-vendedor.md
+08-graficos.md
 imagens/
 
 
@@ -27,6 +30,35 @@ A base contém informações sobre:
 ## Aprendizado
 
 Antes de iniciar qualquer análise é necessário conhecer os dados disponíveis e entender quais perguntas de negócio podem ser respondidas.
+
+
+# Criação da Métrica de Faturamento
+
+## Objetivo
+
+Criar uma métrica que permitisse calcular a receita gerada por cada venda realizada.
+
+## O que foi feito
+
+Foi criada uma nova coluna chamada Faturamento utilizando a multiplicação entre a quantidade vendida e o preço unitário do produto.
+
+Fórmula utilizada:
+
+Faturamento = Quantidade × Preço Unitário
+
+## O que foi encontrado
+
+A base de dados não possuía uma coluna de faturamento pronta, sendo necessário construir essa métrica para possibilitar as análises posteriores.
+
+## Insight
+
+Nem sempre os indicadores necessários para análise estarão disponíveis na base de dados. Em muitos cenários, o analista precisa criar métricas derivadas a partir das informações existentes.
+
+## Aprendizado
+
+* Aprendi a criar métricas derivadas utilizando dados já existentes na base.
+* Compreendi a importância do faturamento como indicador principal para análises de vendas.
+* A nova métrica passou a ser utilizada em todas as análises realizadas no projeto.
 
 
 # Utilização de Tabelas Dinâmicas
