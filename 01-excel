@@ -130,7 +130,7 @@ Analisar o faturamento por marca e investigar os fatores que levaram a Apple a a
 * A Apple apresentou o maior faturamento entre todas as marcas analisadas, totalizando R$ 1.566.745,00.
 * A liderança da Apple foi consistente ao longo dos meses analisados, não sendo resultado de um único período de vendas.
 * Em quantidade de vendas, a Apple ocupou apenas a 3ª posição entre as marcas.
-* A Apple apresentou o maior ticket médio da base, aproximadamente R$ 6.241,72 por venda.
+* A Apple apresentou o maior ticket médio da base, aproximadamente R$ 6.144,10 por venda.
 
 ## Insight
 
@@ -148,8 +148,14 @@ Mesmo não ocupando a primeira posição em quantidade de vendas, o alto valor a
 
 # Análise Por Vendedor
 ## Objetivo
-analisar o faturamento por vendedor e entender seu tickt medio
-## O que foi encontrado
+Analisar a performance individual da equipe de vendas para identificar os maiores faturamentos e avaliar a eficiência de cada vendedor através do ticket médio.
 
+## O que foi encontrado
+* A equipe de vendas demonstrou ser bastante homogênea em termos de eficiência técnica.
+* O Ticket Médio dos vendedores variou em uma faixa estreita, entre R$ 3.136,16 e R$ 3.759,95.
 ## Insight
+Apesar de haver um ranking de faturamento (onde alguns vendem mais em volume total), a proximidade entre os valores de ticket médio indica que não há um vendedor "especializado" apenas em produtos caros ou baratos. Todos os membros da equipe estão trabalhando com um mix de produtos equilibrado.
 ## Aprendizado
+* Utilização da Classificação (Sort) em tabelas dinâmicas para criar rankings de desempenho de forma dinâmica.
+* Compreendi que o faturamento isolado pode esconder a eficiência real; um vendedor com faturamento menor pode ter um ticket médio maior, indicando vendas com maior valor agregado.
+* Reforcei a prática de criação de colunas de cálculo manual fora da tabela dinâmica para métricas personalizadas.
