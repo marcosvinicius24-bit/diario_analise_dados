@@ -84,6 +84,12 @@ As tabelas dinâmicas permitem transformar dados brutos em informações úteis 
 
 Anlisar o faturamento das lojas e identificar quais unidade apresentaram melhor desempenho.
 
+## Gráfico
+
+![Faturamento por loja](imagens/analise-temporal.png)
+
+**Figura 2.** Comparação do faturamento entre as lojas.
+
 ## O que foi encontrado
 
 *Loja Aguas Claras apresentou o maior faturamento: R$ 1.273,047,00
