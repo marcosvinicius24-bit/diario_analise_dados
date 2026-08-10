@@ -23,7 +23,7 @@ A base é composta por informações relacionadas ás vendas de smartphones real
 
 ## Tratamento dos Dados
 
-*Verificação da estrutura da base de dados;
+-Verificação da estrutura da base de dados.
 *Identificação dos principais campos para análise.
 *Criação da coluna 'mes' para permitir análises temporais.
 *Criação da coluna "ticket_medio" para análise do valor médio das vendas.
