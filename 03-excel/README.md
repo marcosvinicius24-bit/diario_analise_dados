@@ -9,7 +9,7 @@ além da criação de gráficos.
 ## Análises realizadas
 
 - Análise Exploratória
-- ![Analise exploratória](03-excel/01-analise-exploratoria.md)
+- ![Analise exploratória](01-analise-exploratoria.md)
 - Criação da Métrica de Faturamento
 - Tabelas Dinâmicas
 - Análise por Loja
