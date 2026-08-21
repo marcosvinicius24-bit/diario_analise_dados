@@ -2,9 +2,15 @@
 
 Nesta etapa foi realizada a análise da base de vendas utilizando Excel.
 
-Foram trabalhados conceitos como análise exploratória, criação de métricas,
-tabelas dinâmicas, análises por loja, período, marca e vendedor,
-além da criação de gráficos.
+Foram trabalhados conceitos como: 
+- análise exploratória.
+- criação de métricas.
+- tabelas dinâmicas.
+- análises por loja.
+- período.
+- marca.
+- vendedor.
+- além da criação de gráficos.
 
 ## Análises realizadas
 
