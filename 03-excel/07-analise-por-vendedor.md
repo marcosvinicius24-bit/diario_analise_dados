@@ -4,6 +4,20 @@
 
 Analisar a performance individual da equipe de vendas para identificar os maiores faturamentos e avaliar a eficiência de cada vendedor através do ticket médio.
 
+## Gráficos
+
+### Faturamento por vendedor
+
+![Faturamento por vendedor](imagens/faturamento-por-vendedor.png)
+
+**Figura 1.** Comparação do faturamento entre os vendedores.
+
+### Ticket médio por vendedor
+
+![Ticket médio por vendedor](imagens/ticket-medio-por-vendedor.png)
+
+**Figura 2.** Comparação do ticket médio entre os vendedores.
+
 ## O que foi encontrado
 
 * A equipe de vendas demonstrou ser bastante homogênea em termos de eficiência técnica.
