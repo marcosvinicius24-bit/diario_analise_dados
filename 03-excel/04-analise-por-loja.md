@@ -12,9 +12,9 @@ Analisar o faturamento das lojas e identificar quais unidade apresentaram melhor
 
 ## O que foi encontrado
 
-*Loja Aguas Claras apresentou o maior faturamento: R$ 1.273,047,00
+* Loja Aguas Claras apresentou o maior faturamento: R$ 1.273,047,00
 
-*Loja de Taguatinga apresentou o menor faturamento: R$ 1.005.812,00
+* Loja de Taguatinga apresentou o menor faturamento: R$ 1.005.812,00
 
 ## Insight 
 
