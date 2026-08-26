@@ -23,7 +23,7 @@ Analisar o faturamento por marca e investigar os fatores que levaram a Apple a a
 * A Apple apresentou o maior faturamento entre todas as marcas analisadas, totalizando R$ 1.566.745,00.
 * A liderança da Apple foi consistente ao longo dos meses analisados, não sendo resultado de um único período de vendas.
 * Em quantidade de vendas, a Apple ocupou apenas a 3ª posição entre as marcas.
-* A Apple apresentou o maior ticket médio da base, aproximadamente R$ 6.144,10 por venda.
+* A Apple apresentou o maior ticket médio da base, aproximadamente R$ 6.241,72 por venda.
 
 ## Insight
 
