@@ -5,7 +5,7 @@
 Analisar o faturamentos mensal e identificar quais meses apresentaram maior e menor desempenho em vendas.
 
 ## Gráfico
-! [Análise Temporal](imagens/analise-temporal.png)
+![Análise Temporal](imagens/analise-temporal.png)
 
 ## O que foi encontrado
 
