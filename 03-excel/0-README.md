@@ -14,11 +14,18 @@ Foram trabalhados conceitos como:
 
 ## Análises realizadas
 
-- ![Analise exploratória](01-analise-exploratoria.md)
-- ![Criação da Métrica de Faturamento](02-criacao-faturamento.md)
-- ![Tabelas Dinâmicas](03-tabela-dinamica.md)
-- ![Análise por Loja](04-analise-por-loja.md)
-- ![Análise Temporal](05-analise-temporal.md)
-- ![Análise por Marca](06-analise-por-marca.md)
-- ![Análise por Vendedor](07-analise-por-vendedor.md)
-- Gráficos
+-[Análise Exploratória](01-analise-exploratoria.md)
+
+-[Criação da Métrica de Faturamento](02-criacao-faturamento.md)
+
+-[Tabelas Dinâmicas](03-tabela-dinamica.md)
+
+-[Análise por Loja](04-analise-por-loja.md)
+
+-[Análise Temporal](05-analise-temporal.md)
+
+-[Análise por Marca](06-analise-por-marca.md)
+
+-[Análise por Vendedor](07-analise-por-vendedor.md)
+
+-[Gráficos](08-graficos.md)
