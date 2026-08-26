@@ -4,6 +4,9 @@
 
 Analisar o faturamentos mensal e identificar quais meses apresentaram maior e menor desempenho em vendas.
 
+## Gráfico
+! [Análise Temporal](imagens/analise-temporal.png)
+
 ## O que foi encontrado
 
 * Maio de 2025 foi o mês com maior faturamento, totalizando R$ 478.966,00.
