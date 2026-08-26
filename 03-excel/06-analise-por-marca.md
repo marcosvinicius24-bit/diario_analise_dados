@@ -4,6 +4,10 @@
 
 Analisar o faturamento por marca e investigar os fatores que levaram a Apple a apresentar um faturamento significativamente superior às demais.
 
+## Gráfico
+
+![Análise por Marca](imagens/faturamento-por-marca.png)
+
 ## O que foi encontrado
 
 * A Apple apresentou o maior faturamento entre todas as marcas analisadas, totalizando R$ 1.566.745,00.
