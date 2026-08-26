@@ -6,7 +6,7 @@ Analisar o faturamento das lojas e identificar quais unidade apresentaram melhor
 
 ## Gráfico
 
-![Faturamento por loja](imagens/analise-temporal.png)
+![Faturamento por loja](imagens/faturamento-por-loja.png)
 
 **Figura 2.** Comparação do faturamento entre as lojas.
 
