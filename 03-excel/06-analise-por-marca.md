@@ -8,7 +8,7 @@ Analisar o faturamento por marca e investigar os fatores que levaram a Apple a a
 
 ### Faturamento por marca
 
-![Análise por Marca](imagens/faturamento-por-marca.png)
+![Análise por Marca](imagens/faturamento-por-marcas.png)
 
 **Figura 1.** Comparação do faturamento entre as marcas.
 
