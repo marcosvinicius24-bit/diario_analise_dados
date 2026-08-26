@@ -8,11 +8,12 @@ Analisar o faturamento das lojas e identificar quais unidade apresentaram melhor
 
 ![Faturamento por loja](imagens/faturamento-por-loja.png)
 
-**Figura 2.** Comparação do faturamento entre as lojas.
+**Figura 1.** Comparação do faturamento entre as lojas.
 
 ## O que foi encontrado
 
 *Loja Aguas Claras apresentou o maior faturamento: R$ 1.273,047,00
+
 *Loja de Taguatinga apresentou o menor faturamento: R$ 1.005.812,00
 
 ## Insight 
